@@ -436,3 +436,20 @@ footer {
 footer p {
   text-align: center;
 }
+
+.games {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.games a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: red;
+}
+
+.games a img {
+  margin: 0 40px;
+}
