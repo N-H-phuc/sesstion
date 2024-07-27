@@ -436,3 +436,12 @@ footer {
 footer p {
   text-align: center;
 }
+
+.hinh img {
+  height: 50px;
+  
+}
+
+.hinh a {
+  margin-right: 20px;
+}
